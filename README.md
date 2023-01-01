@@ -41,7 +41,9 @@ Here are some ideas to get you started:
           frameworks: [
              "Laravel",
              "NestJS",
-             "AdonisJS"
+             "AdonisJS",
+             "Express",
+             "Fastify"
           ],
           language: [
              "PHP",
