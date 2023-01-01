@@ -26,8 +26,7 @@ Here are some ideas to get you started:
        ],
        aliases: [
           "zhinea",
-          "fadla",
-          "zydnf"
+          "fadla"
        ],
        location: "Brebes, Jawa Tengah, Indonesia.",
        occupation: "Freelance Developer",
