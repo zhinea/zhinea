@@ -30,7 +30,27 @@ Here are some ideas to get you started:
           "zydnf"
        ],
        location: "Brebes, Jawa Tengah, Indonesia.",
-       occupation: "Freelance Developer"
+       occupation: "Freelance Developer",
+       stacks: {
+          databases: [
+             "MongoDB",
+             "MySQL",
+             "PostgreSQL",
+             "Redis",
+             "SQlite"
+          ],
+          frameworks: [
+             "Laravel",
+             "NestJS",
+             "AdonisJS"
+          ],
+          language: [
+             "PHP",
+             "Javascript",
+             "Typescript",
+             "GO"
+          ]
+       }
    });
  
  github.connect();
