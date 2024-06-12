@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  github.initProfile({
        name: "Zidna Fadla",
        contacts: [
-          "mailto: fadla@x-app.space",
+          "email: zidna.dev@gmail.com",
           "whatsapp: +62 896-3758-7359"
        ],
        aliases: [
