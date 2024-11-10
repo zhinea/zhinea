@@ -19,10 +19,10 @@ Here are some ideas to get you started:
  import github from "github"
  
  github.initProfile({
-       name: "Zidna Fadla",
+       name: "M Zidna Fadla",
        contacts: [
           "email: zidna.dev@gmail.com",
-          "whatsapp: +62 896-3758-7359"
+          "whatsapp: +628 788 400 1234"
        ],
        aliases: [
           "zhinea",
@@ -50,7 +50,12 @@ Here are some ideas to get you started:
              "Javascript",
              "Typescript",
              "GO"
-          ]
+          ],
+          on_learn: [
+            "Rust",
+            "Zero Downtime Infrastructure",
+            "Server Security"
+         ]
        }
    });
  
