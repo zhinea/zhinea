@@ -22,13 +22,13 @@ Here are some ideas to get you started:
        name: "M Zidna Fadla",
        contacts: [
           "email: zidna.dev@gmail.com",
-          "whatsapp: +628 788 400 1234"
+          "whatsapp: +628-788-400-1234"
        ],
        aliases: [
-          "zhinea",
+          "zidna",
           "fadla"
        ],
-       location: "Brebes, Jawa Tengah, Indonesia.",
+       location: "Brebes, Indonesia.",
        occupation: "Freelance Developer",
        stacks: {
           databases: [
@@ -43,16 +43,17 @@ Here are some ideas to get you started:
              "NestJS",
              "AdonisJS",
              "Express",
-             "Fastify"
+             "Fastify",
+             "Hono"
           ],
           language: [
              "PHP",
              "Javascript",
              "Typescript",
-             "GO"
+             "GO",
+             "Rust"
           ],
           on_learn: [
-            "Rust",
             "Zero Downtime Infrastructure",
             "Server Security"
          ]
